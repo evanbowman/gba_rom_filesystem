@@ -23,6 +23,6 @@ Not yet.
 
 Run `python unpack_rom.py <rom_with_appended_archive>`
 
-# Why are there null bytes at the end of my files?
+# Why are there null bytes at the end of my files when running the rom unpacking tool?
 
 The implementation pads files to the GBA cpu alignment size for faster access to fields in the file headers.
