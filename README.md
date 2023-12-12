@@ -2,6 +2,10 @@
 
 A simple filesystem library for C++. It appends an archive to a gba rom, and provides utilities for reading the files within the gba program.
 
+# Are there any examples?
+
+See example.cpp
+
 # How do I build it?
 
 Run build.sh. The build.sh script runs encode_files.py, and then uses the unix `cat` tool to append the resulting filesystem archive to the compiled gba code.
