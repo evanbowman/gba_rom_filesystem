@@ -1,6 +1,6 @@
 # What is this?
 
-A simple filesystem library for C++. It appends an archive to a gba rom, and provides utilities for reading the files within the gba program.
+A simple filesystem library for C++. It appends an archive to a gba rom, and provides utilities for reading the files within the gba program. Originally part of https://github.com/evanbowman/skyland.
 
 # Are there any examples?
 
